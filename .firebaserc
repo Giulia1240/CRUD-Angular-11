@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "projetocrudangular": {
+      "hosting": {
+        "my-crud-app": [
+          "projetocrudangular"
+        ]
+      }
+    }
+  }
+}
